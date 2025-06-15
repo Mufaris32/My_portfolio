@@ -74,8 +74,49 @@ const Contact = () => {
 					</div>
 
 					<div className="socials-container">
-						<div className="contact-socials">
+						<div
+							className="contact-socials"
+							style={{
+								display: "flex",
+								alignItems: "center",
+								gap: "24px",
+							}}
+						>
 							<Socials />
+						</div>
+						<div
+							className="whatsapp-contact"
+							style={{ marginTop: "24px" }}
+						>
+							<a
+								href="https://wa.me/94765259931"
+								target="_blank"
+								rel="noreferrer"
+								style={{
+									display: "flex",
+									alignItems: "center",
+									textDecoration: "none",
+								}}
+							>
+								<img
+									src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg"
+									alt="WhatsApp"
+									style={{
+										width: "24px",
+										height: "24px",
+										marginRight: "10px",
+									}}
+								/>
+								<span
+									style={{
+										color: "#25D366",
+										fontWeight: 600,
+										fontSize: "16px",
+									}}
+								>
+									Chat on WhatsApp
+								</span>
+							</a>
 						</div>
 					</div>
 

@@ -2,36 +2,29 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I'm Mufaris, an enthusiastic IT student passionate about web development. I'm currently learning full stack development and enjoy building real-world projects using modern technologies.",
+		keywords: ["Mufaris", "IT Student", "Full Stack Developer", "Web Development"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
-
-	{
-		page: "articles",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I'm Mufaris, an enthusiastic IT student passionate about web development. I'm currently learning full stack development and enjoy building real-world projects using modern technologies.",
+		keywords: ["Mufaris", "IT Student", "Full Stack Developer", "Web Development"],
 	},
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"A showcase of my web development projects, including real-world applications and creative experiments.",
+		keywords: ["Mufaris", "IT Student", "Full Stack Developer", "Web Development", "Projects"],
 	},
 
 	{
 		page: "contact",
 		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"If you're interested in collaborating or want to connect, feel free to reach out to me via email or social media.",
+		keywords: ["Mufaris", "Contact", "Email", "Social Media"],
 	},
 ];
 
